@@ -18,6 +18,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" />
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
