@@ -74,9 +74,6 @@
 </details>
 <details>
   <summary>👥 Contact</summary>
-  <a href=https://instagram.com/isaacvalenz._" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
   <a href=https://discord.com/users/681950080747700246" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
